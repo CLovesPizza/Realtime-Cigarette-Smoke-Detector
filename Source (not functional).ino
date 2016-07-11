@@ -1,3 +1,5 @@
+//This File is no longer functional!!!
+//Please refer to the repository for updated code!!!
 int pin = 6;
 unsigned long duration;
 unsigned long starttime;
